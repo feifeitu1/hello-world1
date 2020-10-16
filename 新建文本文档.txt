@@ -3,4 +3,5 @@ char* StrCpy(char* src) {
 	int len = strlen(src);
 	char *p=(char*)malloc(sizeof(char)*(len+1))
 		while(src[])
+aaa
 }
